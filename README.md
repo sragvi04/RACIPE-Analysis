@@ -1,6 +1,6 @@
 # RACIPE-Analysis
 This Analysis was a part of a study that explores the inhibitory effects of fasting on Epithelial to Mesenchymal Transition using RACIPE and Genome
-Scale Metabolic Modeling during my summer intership programme at IISC. 
+Scale Metabolic Modeling during my summer intership programme at IISC, Bangalore. 
 The built Gene Regulatory Network (GRN) from literature survey was the basis to create a topology file, which served as input for
 RACIPE. RACIPE processed this topology input to generate gene expressions for each stable state of 10,000
 models. The gene expression data for six genes—mTOR, AMPK, SNAIL, ZEB, miR-200, and miR-34 which
